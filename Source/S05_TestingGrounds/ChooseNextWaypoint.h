@@ -2,6 +2,7 @@
 
 #pragma once
 
+#include "PatrolRoute.h"
 #include "Engine/World.h"
 #include "CoreMinimal.h"
 #include "BehaviorTree/BTTaskNode.h"
